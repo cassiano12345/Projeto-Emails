@@ -10,7 +10,7 @@ Ficheiro-> Emails C#-Tokens-> Form1.cs <br/>
 
 - Carregar_R_Token: A função destina-se a buscar o refresh token armazenado na memoria do computador, de forma a ser possivel atualizar o token. <br/>
 - Fazer_Login_GOOGLE_Microsoft: A função tem como a variavel de entrada "ficheiro_token", e destina se a fazer a atualização do token por meio do Refresh token, ou fazer a autenticação dos usuarios por meio de Email e Password. Quando a função é iniciada ela tenta verificar se existe algum ficheiro com token por meio da função "Carregar_R_Token", caso não existir é feito o Login por meio do Email e da Password, e caso existir token é feito a atualização do token.<br/>
-- Enviar_Email: A função destina se a enviar os emails do Outlook e da Google, ela conta com variaveis de entrarda accessToken(contem o accessToken), email_r(o email de remetente), email_d(email de destino), bbc_(o bbc do mail), assunto_(assunto do mail), e corpo(a mensagem a ser enviada). No final ao ser enviado o email foi usada a biblioteca MailKit onde foi possivel usar o SmtpClient, primeiro é feito a autenticação com o email e o accesstoken, e no final é enviado o email<br/>
+- Enviar_Email: A função destina se a enviar os emails do Outlook e da Google, ela conta com variaveis de entrarda accessToken(contem o accessToken), email_r(o email de remetente), email_d(email de destino), bbc_(o bbc do mail), assunto_(assunto do mail), e corpo(a mensagem a ser enviada). No final ao ser enviado o email foi usada a biblioteca MailKit onde foi possivel usar o SmtpClient, primeiro é feito a autenticação com o email e o accesstoken, e no final é enviado o email. <br/>
 
 
 ***Variáveis***
