@@ -1,0 +1,418 @@
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Softnova_Emails\Softnova_Emails\bin\Debug\Softnova_Emails.exe.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Softnova_Emails\Softnova_Emails\bin\Debug\Softnova_Emails.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Softnova_Emails\Softnova_Emails\bin\Debug\Softnova_Emails.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Softnova_Emails\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.AssemblyReference.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Softnova_Emails\Softnova_Emails\obj\Debug\Softnova_Emails.Form1.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Softnova_Emails\Softnova_Emails\obj\Debug\Softnova_Emails.Properties.Resources.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Softnova_Emails\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.GenerateResource.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Softnova_Emails\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.CoreCompileInputs.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Softnova_Emails\Softnova_Emails\obj\Debug\Softnova_Emails.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Softnova_Emails\Softnova_Emails\obj\Debug\Softnova_Emails.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Softnova_Emails\Softnova_Emails\bin\Debug\EASendMail.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Softnova_Emails\Softnova_Emails\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Softnova_Emails\Softnova_Emails\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Softnova_Emails\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.CopyComplete
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\Softnova_Emails.exe.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\Softnova_Emails.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\Softnova_Emails.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\EASendMail.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.AssemblyReference.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\obj\Debug\Softnova_Emails.Form1.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\obj\Debug\Softnova_Emails.Properties.Resources.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.GenerateResource.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.CoreCompileInputs.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.CopyComplete
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\obj\Debug\Softnova_Emails.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\obj\Debug\Softnova_Emails.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\MailKit.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\MimeKit.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\System.Buffers.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\System.Formats.Asn1.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\System.Memory.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\System.ValueTuple.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\MailKit.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\MailKit.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\MailKit.dll.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\MimeKit.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\MimeKit.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\MimeKit.dll.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\System.Buffers.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\System.Formats.Asn1.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\System.Memory.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Softnova_Emails\Softnova_Emails\bin\Debug\System.ValueTuple.xml
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\Softnova_Emails.exe.config
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\Softnova_Emails.exe
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\Softnova_Emails.pdb
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\BouncyCastle.Cryptography.dll
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\EASendMail.dll
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\MailKit.dll
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\MimeKit.dll
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\System.Buffers.dll
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\System.Formats.Asn1.dll
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\System.Memory.dll
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\System.Numerics.Vectors.dll
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\System.ValueTuple.dll
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\BouncyCastle.Cryptography.xml
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\MailKit.pdb
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\MailKit.xml
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\MailKit.dll.config
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\MimeKit.pdb
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\MimeKit.xml
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\MimeKit.dll.config
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\System.Buffers.xml
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\System.Formats.Asn1.xml
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\System.Memory.xml
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\System.Numerics.Vectors.xml
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\bin\Debug\System.ValueTuple.xml
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.AssemblyReference.cache
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\obj\Debug\Softnova_Emails.Form1.resources
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\obj\Debug\Softnova_Emails.Properties.Resources.resources
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.GenerateResource.cache
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.CoreCompileInputs.cache
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.CopyComplete
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\obj\Debug\Softnova_Emails.exe
+C:\SOFTNOVA_CSHARP\CASSIANO\Softnova_Emails\obj\Debug\Softnova_Emails.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\Softnova_Emails.exe.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\Softnova_Emails.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\Softnova_Emails.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\EASendMail.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\Mono.HttpUtility.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\RtfPipe.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Buffers.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Formats.Asn1.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Memory.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\System.ValueTuple.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.dll.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.dll.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Buffers.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Formats.Asn1.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Memory.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\bin\Debug\System.ValueTuple.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.BrowserForm.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.contactos.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.Form1.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.Properties.Resources.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.GenerateResource.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.CoreCompileInputs.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.CopyComplete
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.AssemblyReference.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.LoadingForm.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Softnova_Emails.exe.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Softnova_Emails.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Softnova_Emails.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\EASendMail.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Mono.HttpUtility.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\RtfPipe.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Buffers.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Formats.Asn1.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Memory.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.ValueTuple.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.dll.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.dll.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Buffers.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Formats.Asn1.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Memory.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.ValueTuple.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.AssemblyReference.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.BrowserForm.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.contactos.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.Form1.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.LoadingForm.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.Properties.Resources.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.GenerateResource.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.CoreCompileInputs.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.CopyComplete
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Softnova_Emails.exe.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Softnova_Emails.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Softnova_Emails.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\EASendMail.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Mono.HttpUtility.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\RtfPipe.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Buffers.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Formats.Asn1.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Memory.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.ValueTuple.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.dll.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.dll.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Buffers.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Formats.Asn1.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Memory.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\bin\Debug\System.ValueTuple.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.AssemblyReference.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.BrowserForm.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.contactos.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.Form1.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.LoadingForm.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.Properties.Resources.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.GenerateResource.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.CoreCompileInputs.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.CopyComplete
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\Softnova_Emails.exe.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\Softnova_Emails.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\Softnova_Emails.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\EASendMail.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\Mono.HttpUtility.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\RtfPipe.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Buffers.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Formats.Asn1.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Memory.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\System.ValueTuple.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.dll.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.dll.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Buffers.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Formats.Asn1.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Memory.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\bin\Debug\System.ValueTuple.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.AssemblyReference.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.BrowserForm.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.contactos.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.Form1.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.LoadingForm.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.Properties.Resources.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.GenerateResource.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.CoreCompileInputs.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.CopyComplete
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Cassiano\GOOGLE\Botões Sara\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.pdb
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\Softnova_Emails.exe.config
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\Softnova_Emails.exe
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\Softnova_Emails.pdb
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\EASendMail.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\Mono.HttpUtility.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\RtfPipe.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Buffers.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Memory.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\System.ValueTuple.dll
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.pdb
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.xml
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\MailKit.dll.config
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.pdb
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.xml
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\MimeKit.dll.config
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Buffers.xml
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Memory.xml
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\bin\Debug\System.ValueTuple.xml
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.AssemblyReference.cache
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.BrowserForm.resources
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.contactos.resources
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.Form1.resources
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.LoadingForm.resources
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.Properties.Resources.resources
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.GenerateResource.cache
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.csproj.CoreCompileInputs.cache
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova.DAD28E08.Up2Date
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.exe
+C:\Users\Cassiano Videira\Desktop\MARISA_TESTES\Softnova_Emails\obj\Debug\Softnova_Emails.pdb
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\Softnova_Emails.exe.config
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\Softnova_Emails.exe
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\Softnova_Emails.pdb
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\EASendMail.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\MailKit.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\MimeKit.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\Mono.HttpUtility.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\RtfPipe.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\System.Buffers.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\System.Memory.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\System.ValueTuple.dll
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\MailKit.pdb
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\MailKit.xml
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\MailKit.dll.config
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\MimeKit.pdb
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\MimeKit.xml
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\MimeKit.dll.config
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\System.Buffers.xml
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\System.Memory.xml
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\bin\Debug\System.ValueTuple.xml
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\obj\Debug\Softnova_Emails.csproj.AssemblyReference.cache
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\obj\Debug\Softnova_Emails.BrowserForm.resources
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\obj\Debug\Softnova_Emails.contactos.resources
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\obj\Debug\Softnova_Emails.Form1.resources
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\obj\Debug\Softnova_Emails.LoadingForm.resources
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\obj\Debug\Softnova_Emails.Properties.Resources.resources
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\obj\Debug\Softnova_Emails.csproj.GenerateResource.cache
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\obj\Debug\Softnova_Emails.csproj.CoreCompileInputs.cache
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\obj\Debug\Softnova.DAD28E08.Up2Date
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\obj\Debug\Softnova_Emails.exe
+C:\Users\Cassiano Videira\Desktop\Projetos\Email C#\Emails C#-Tokens\obj\Debug\Softnova_Emails.pdb

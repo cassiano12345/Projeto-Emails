@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>"smtp.gmail.com" "587" "videirakeissi%40hotmail.com" "seydousoumare181%40gmail.com" "jpcv lnky hnmd ybqn" "S" "Feliz ano novo!" "Softnova, a solução do seu problema. Feliz ano novo!" "S" "" "" "" "" "softnovatestes%40gmail.com" "" "" "" "" "" "S" "GOOGLE" "164104757724-hnhot5nijtr51c3sib1dngu4pmrr7tru.apps.googleusercontent.com" "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"</StartArguments>
+  </PropertyGroup>
+</Project>
