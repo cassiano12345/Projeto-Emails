@@ -40,7 +40,7 @@ Na imagem a baixo é possível ver a caixa com diferentes cores, onde é psosive
 </p>
 
 ***Lista de contactos*** <br/>
-Na imagem a baixo é possível ver a caixa de lista de contactos gravador, onde é possivel adicionar os contactos ao BCC. A lista de contactos fica armazenada num ficheiro excel, na pasta "Meus_contactos".
+Na imagem a baixo é possível ver a caixa de lista de contactos gravados, onde é possivel adicionar os contactos ao BCC. A lista de contactos fica armazenada num ficheiro excel, na pasta "Meus_contactos".
 
 <p align="center">
   <img src="Lista de contactos.png" alt="OpenMontage" width="700">
