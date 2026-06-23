@@ -23,6 +23,17 @@ Ficheiro-> Emails C#-Tokens-> Form1.cs <br/>
 - Scope_Google: É uma contante que contem o link de scope do Gmail.<br/>
 - AuthUri_Google: É uma constante que contem o link destinado a fazer a autenticação de emails Gmail, por meio de Email e Senha. <br/>
 
+***Imagens*** <br/>
+
+***Página principal*** <br/>
+A imagem a baixo mostra a pagina principal do programa, onde é possivel ver uma checkbox, com a descrição "Receber", que serve para o remetente do email, receber uma copia do email, é possivel ver também as caixas de texto de email do remetente, do destinatario, e do BBC, é possivel ver também a caixa de texto dos anexos e do assunto, mais em baixo é possivel ver os botões do negrito, do sublinhado, do italico, dos anexos, tem também o botão para alinhar o texto para a direita, centro, e esquerda, tem o botão para mudar a cor do realce do texto, para mudar a cor do texto, tem o botão de marcadores, tem a combobox para mudar o estilo do texto, e o tamanho do texto, e por final mais em baixo com o simbolo de borracha tem o botão para apagar os anexos.
+
+<p align="center">
+  <img src="Imagem do programa.png" alt="OpenMontage" width="700">
+</p>
+
+***Página principal*** <br/>
+
 ***Links***
 - OAuth 2.0 para API Google <br/>
 https://developers.google.com/identity/protocols/oauth2?hl=pt-br
