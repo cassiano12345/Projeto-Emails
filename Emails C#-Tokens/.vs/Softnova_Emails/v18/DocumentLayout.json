@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Email C#\\Emails C#-Tokens\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0168BF0-5424-4DA9-BB6E-4F26EA691B22}|Softnova_Emails.csproj|c:\\users\\cassiano videira\\desktop\\projetos\\email c#\\emails c#-tokens\\contactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0168BF0-5424-4DA9-BB6E-4F26EA691B22}|Softnova_Emails.csproj|solutionrelative:contactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0168BF0-5424-4DA9-BB6E-4F26EA691B22}|Softnova_Emails.csproj|c:\\users\\cassiano videira\\desktop\\projetos\\email c#\\emails c#-tokens\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0168BF0-5424-4DA9-BB6E-4F26EA691B22}|Softnova_Emails.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contactos.cs",
+              "DocumentMoniker": "C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Email C#\\Emails C#-Tokens\\contactos.cs",
+              "RelativeDocumentMoniker": "contactos.cs",
+              "ToolTip": "C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Email C#\\Emails C#-Tokens\\contactos.cs",
+              "RelativeToolTip": "contactos.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAewDUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:54:26.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Email C#\\Emails C#-Tokens\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Email C#\\Emails C#-Tokens\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:52:10.77Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -51,7 +51,7 @@ namespace Softnova_Emails
         private void LoadContacts()
         {
             // Simulando a leitura de contatos de um arquivo CSV
-            string filePath = "C:/temp/EMAILS/contactos.csv";
+            string filePath = "../../../Meus_contactos/contactos.csv";
             var contacts = ReadContactsFromCsv(filePath);
 
             // Adicionar os contatos ao DataGridView
